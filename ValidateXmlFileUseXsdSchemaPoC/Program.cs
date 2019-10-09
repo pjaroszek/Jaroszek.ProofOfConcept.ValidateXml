@@ -1,11 +1,11 @@
-﻿using System;
-using System.IO;
-using System.Text;
-using ValidateXmlFileUseXsdSchemaPoC.Interfaces;
-using ValidateXmlFileUseXsdSchemaPoC.Services;
-
-namespace ValidateXmlFileUseXsdSchemaPoC
+﻿namespace ValidateXmlFileUseXsdSchemaPoC
 {
+    using System;
+    using System.IO;
+    using System.Text;
+    using ValidateXmlFileUseXsdSchemaPoC.Interfaces;
+    using ValidateXmlFileUseXsdSchemaPoC.Services;
+
     internal static class Program
     {
         static void Main(string[] args)
@@ -23,6 +23,7 @@ namespace ValidateXmlFileUseXsdSchemaPoC
                 Console.WriteLine($"saxon- {file} => {saxon.Validate(xml)}");
                 Console.WriteLine($"{file} => {xmlValidate.Validate(xml)}");
             }
+
             Console.ReadKey();
         }
     }

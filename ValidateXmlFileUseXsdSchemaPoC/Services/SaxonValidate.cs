@@ -1,12 +1,12 @@
-﻿using Saxon.Api;
-using System;
-using System.Collections;
-using System.IO;
-using System.Xml;
-using ValidateXmlFileUseXsdSchemaPoC.Interfaces;
-
-namespace ValidateXmlFileUseXsdSchemaPoC.Services
+﻿namespace ValidateXmlFileUseXsdSchemaPoC.Services
 {
+    using Saxon.Api;
+    using System;
+    using System.Collections;
+    using System.IO;
+    using System.Xml;
+    using ValidateXmlFileUseXsdSchemaPoC.Interfaces;
+
     public sealed class SaxonValidate : IXmlFileValidation
     {
         private string xsd;

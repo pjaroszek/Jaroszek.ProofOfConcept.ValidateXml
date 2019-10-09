@@ -1,10 +1,10 @@
-﻿using System.IO;
-using System.Xml;
-using System.Xml.Schema;
-using ValidateXmlFileUseXsdSchemaPoC.Interfaces;
-
-namespace ValidateXmlFileUseXsdSchemaPoC.Services
+﻿namespace ValidateXmlFileUseXsdSchemaPoC.Services
 {
+    using System.IO;
+    using System.Xml;
+    using System.Xml.Schema;
+    using ValidateXmlFileUseXsdSchemaPoC.Interfaces;
+
     public class XmlDocumentValidate : IXmlFileValidation
     {
         private string xsd;

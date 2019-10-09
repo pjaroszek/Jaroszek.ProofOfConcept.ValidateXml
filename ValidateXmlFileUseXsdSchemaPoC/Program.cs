@@ -2,6 +2,7 @@
 using System.IO;
 using System.Text;
 using ValidateXmlFileUseXsdSchemaPoC.Interfaces;
+using ValidateXmlFileUseXsdSchemaPoC.Services;
 
 namespace ValidateXmlFileUseXsdSchemaPoC
 {
@@ -11,7 +12,7 @@ namespace ValidateXmlFileUseXsdSchemaPoC
         {
             string FileDirectory = @"TEST\";
             string[] fileXml = Directory.GetFiles(FileDirectory);
-            var xsd = File.ReadAllText("Schemat_JPK_VAT(3)_v1-1.xsd");
+            var xsd = File.ReadAllText(@"Assets\Schemat_JPK_VAT(3)_v1-1.xsd");
 
             IXmlFileValidation saxon = new SaxonValidate();
             IXmlFileValidation xmlValidate = new XmlDocumentValidate();

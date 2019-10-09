@@ -3,7 +3,7 @@ using System.Xml;
 using System.Xml.Schema;
 using ValidateXmlFileUseXsdSchemaPoC.Interfaces;
 
-namespace ValidateXmlFileUseXsdSchemaPoC
+namespace ValidateXmlFileUseXsdSchemaPoC.Services
 {
     public class XmlDocumentValidate : IXmlFileValidation
     {

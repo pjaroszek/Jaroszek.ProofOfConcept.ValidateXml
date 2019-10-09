@@ -82,32 +82,32 @@
     <Compile Include="Interfaces\IXmlFileValidation.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SaxonValidate.cs" />
-    <Compile Include="XmlDocumentValidate.cs" />
+    <Compile Include="Services\SaxonValidate.cs" />
+    <Compile Include="Services\XmlDocumentValidate.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="ElementarneTypyDanych_v4-0E.xsd">
+    <None Include="Assets\ElementarneTypyDanych_v4-0E.xsd">
       <SubType>Designer</SubType>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Include="KodyKrajow_v4-1E.xsd">
+    <None Include="Assets\KodyKrajow_v4-1E.xsd">
       <SubType>Designer</SubType>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Include="KodyNaczelnikowUrzedowSkarbowych_v3-0E.xsd">
+    <None Include="Assets\KodyNaczelnikowUrzedowSkarbowych_v3-0E.xsd">
       <SubType>Designer</SubType>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Include="KodyUrzedowSkarbowych_v4-0E.xsd">
+    <None Include="Assets\KodyUrzedowSkarbowych_v4-0E.xsd">
       <SubType>Designer</SubType>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Include="Schemat_JPK_VAT%283%29_v1-1.xsd">
+    <None Include="Assets\Schemat_JPK_VAT%283%29_v1-1.xsd">
       <SubType>Designer</SubType>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Include="StrukturyDanych_v4-0E.xsd">
+    <None Include="Assets\StrukturyDanych_v4-0E.xsd">
       <SubType>Designer</SubType>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
@@ -126,5 +126,6 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

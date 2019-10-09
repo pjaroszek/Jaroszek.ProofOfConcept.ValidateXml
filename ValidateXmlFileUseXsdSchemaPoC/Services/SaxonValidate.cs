@@ -5,9 +5,9 @@ using System.IO;
 using System.Xml;
 using ValidateXmlFileUseXsdSchemaPoC.Interfaces;
 
-namespace ValidateXmlFileUseXsdSchemaPoC
+namespace ValidateXmlFileUseXsdSchemaPoC.Services
 {
-    public class SaxonValidate : IXmlFileValidation
+    public sealed class SaxonValidate : IXmlFileValidation
     {
         public bool Validate(string xml, string xsd)
         {

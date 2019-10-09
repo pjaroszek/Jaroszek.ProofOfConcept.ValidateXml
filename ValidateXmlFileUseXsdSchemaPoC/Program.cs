@@ -7,11 +7,12 @@
 
     internal static class Program
     {
+        private const string DEFAULT_DATA_DIRECTORY = "XmlFileToTest";
+
         internal static void Main(string[] args)
         {
-            string fileDirectory = @"XmlFileToTest\";
-            string[] fileXml = Directory.GetFiles(fileDirectory);
-            var xsd = File.ReadAllText(@"Assets\Schemat_JPK_VAT(3)_v1-1.xsd");
+            string[] fileXml = Directory.GetFiles(DEFAULT_DATA_DIRECTORY);
+            string xsd = File.ReadAllText(@"Assets\Schemat_JPK_VAT(3)_v1-1.xsd");
 
             var saxon = new SaxonValidate(xsd);
             var xmlValidate = new XmlDocumentValidate(xsd);

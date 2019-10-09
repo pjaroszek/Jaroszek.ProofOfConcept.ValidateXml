@@ -3,19 +3,18 @@
     using System;
     using System.IO;
     using System.Text;
-    using ValidateXmlFileUseXsdSchemaPoC.Interfaces;
     using ValidateXmlFileUseXsdSchemaPoC.Services;
 
     internal static class Program
     {
-        static void Main(string[] args)
+        internal static void Main(string[] args)
         {
-            string FileDirectory = @"TEST\";
-            string[] fileXml = Directory.GetFiles(FileDirectory);
+            string fileDirectory = @"XmlFileToTest\";
+            string[] fileXml = Directory.GetFiles(fileDirectory);
             var xsd = File.ReadAllText(@"Assets\Schemat_JPK_VAT(3)_v1-1.xsd");
 
-            IXmlFileValidation saxon = new SaxonValidate(xsd);
-            IXmlFileValidation xmlValidate = new XmlDocumentValidate(xsd);
+            var saxon = new SaxonValidate(xsd);
+            var xmlValidate = new XmlDocumentValidate(xsd);
 
             foreach (string file in fileXml)
             {

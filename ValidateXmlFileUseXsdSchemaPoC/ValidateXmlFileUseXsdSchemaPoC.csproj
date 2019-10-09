@@ -113,16 +113,16 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="TEST\1.xml">
+    <Content Include="XmlFileToTest\1.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="TEST\2.xml">
+    <Content Include="XmlFileToTest\2.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="TEST\3.xml">
+    <Content Include="XmlFileToTest\3.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="TEST\4.xml">
+    <Content Include="XmlFileToTest\4.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
   </ItemGroup>

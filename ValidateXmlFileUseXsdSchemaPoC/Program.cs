@@ -14,7 +14,7 @@
             string[] fileXml = Directory.GetFiles(DEFAULT_DATA_DIRECTORY);
             string xsd = File.ReadAllText(@"Assets\Schemat_JPK_VAT(3)_v1-1.xsd");
 
-            var saxon = new SaxonValidate(xsd);
+            var saxon = new XmlDocumentValidateUseSaxon(xsd);
             var xmlValidate = new XmlDocumentValidate(xsd);
 
             foreach (string file in fileXml)

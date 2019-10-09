@@ -7,10 +7,11 @@
     using System.Xml;
     using ValidateXmlFileUseXsdSchemaPoC.Interfaces;
 
-    public sealed class SaxonValidate : IXmlFileValidation
+    public sealed class XmlDocumentValidateUseSaxon : IXmlFileValidation
     {
         private string xsd;
-        public SaxonValidate(string xsd)
+
+        public XmlDocumentValidateUseSaxon(string xsd)
         {
             this.xsd = xsd;
         }

@@ -3,6 +3,8 @@ using System;
 using System.Collections;
 using System.IO;
 using System.Xml;
+using ValidateXmlFileUseXsdSchemaPoC.Interfaces;
+
 namespace ValidateXmlFileUseXsdSchemaPoC
 {
     public class SaxonValidate : IXmlFileValidation

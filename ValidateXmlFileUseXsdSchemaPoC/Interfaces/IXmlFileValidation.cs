@@ -1,4 +1,4 @@
-﻿namespace ValidateXmlFileUseXsdSchemaPoC
+﻿namespace ValidateXmlFileUseXsdSchemaPoC.Interfaces
 {
     public interface IXmlFileValidation
     {

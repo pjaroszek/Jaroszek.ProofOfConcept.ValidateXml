@@ -1,6 +1,7 @@
 ﻿using System.IO;
 using System.Xml;
 using System.Xml.Schema;
+using ValidateXmlFileUseXsdSchemaPoC.Interfaces;
 
 namespace ValidateXmlFileUseXsdSchemaPoC
 {

@@ -7,7 +7,13 @@ namespace ValidateXmlFileUseXsdSchemaPoC.Services
 {
     public class XmlDocumentValidate : IXmlFileValidation
     {
-        public bool Validate(string xml, string xsd)
+        private string xsd;
+
+        public XmlDocumentValidate(string xsd)
+        {
+            this.xsd = xsd;
+        }
+        public bool Validate(string xml)
         {
             var result = true;
             var xmlSchemaSet = new XmlSchemaSet();

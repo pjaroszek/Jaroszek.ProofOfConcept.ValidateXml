@@ -9,12 +9,17 @@ namespace ValidateXmlFileUseXsdSchemaPoC.Services
 {
     public sealed class SaxonValidate : IXmlFileValidation
     {
-        public bool Validate(string xml, string xsd)
+        private string xsd;
+        public SaxonValidate(string xsd)
+        {
+            this.xsd = xsd;
+        }
+        public bool Validate(string xml)
         {
             bool result = true;
             Saxon.Api.Processor proc = new Processor(true);
             SchemaManager schemaManager = proc.SchemaManager;
-            schemaManager.Compile(XmlReader.Create(new StringReader(xsd)));
+            schemaManager.Compile(XmlReader.Create(new StringReader(this.xsd)));
             SchemaValidator validator = schemaManager.NewSchemaValidator();
             validator.SetSource(XmlReader.Create(new StringReader(xml)));
             validator.ErrorList = new ArrayList();

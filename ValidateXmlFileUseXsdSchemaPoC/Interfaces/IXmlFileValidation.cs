@@ -2,6 +2,6 @@
 {
     public interface IXmlFileValidation
     {
-        bool Validate(string xml, string xsd);
+        bool Validate(string xml);
     }
 }

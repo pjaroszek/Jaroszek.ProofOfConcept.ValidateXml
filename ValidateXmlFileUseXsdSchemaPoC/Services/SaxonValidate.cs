@@ -14,6 +14,7 @@ namespace ValidateXmlFileUseXsdSchemaPoC.Services
         {
             this.xsd = xsd;
         }
+
         public bool Validate(string xml)
         {
             bool result = true;

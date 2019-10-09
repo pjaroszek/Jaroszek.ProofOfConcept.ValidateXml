@@ -1,0 +1,907 @@
+<?xml version="1.0" encoding="UTF-8"?><tns:JPK xmlns:xsi="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://jpk.mf.gov.pl/wzor/2017/11/13/1113/" xmlns:etd="http://crd.gov.pl/xml/schematy/dziedzinowe/mf/2016/01/25/eD/DefinicjeTypy/">
+  <tns:Naglowek>
+    <tns:KodFormular kodSystemowy="JPK_VAT (3)" wersjaSchemy="1-1">JPK_VAT</tns:KodFormular>
+    <tns:WariantFormularza>3</tns:WariantFormularza>
+    <tns:CelZlozenia>0</tns:CelZlozenia>
+    <tns:DataWytworzeniaJPK>2018-02-20T15:42:49</tns:DataWytworzeniaJPK>
+    <tns:DataOd>2018-01-01</tns:DataOd>
+    <tns:DataDo>2018-01-31</tns:DataDo>
+    <tns:NazwaSystemu>Sage Symfonia ERP Finanse i Księgowość 2018.2</tns:NazwaSystemu>
+  </tns:Naglowek>
+  <tns:Podmiot1>
+    <tns:NIP>8133598472</tns:NIP>
+    <tns:PelnaNazwa>STOP NADCIŚNIENIU SP. Z O. O. SPÓŁKA KOMANDYTOWA</tns:PelnaNazwa>
+    <tns:Email>ksiegowosc@chde.pl</tns:Email>
+  </tns:Podmiot1>
+  <tns:SprzedazWiersz>
+    <tns:LpSprzedazy>1</tns:LpSprzedazy>
+    <tns:NrKontrahenta>DE812915962</tns:NrKontrahenta>
+    <tns:NazwaKontrahenta>G.B. SERVICE GRZEGORZ BEKIER</tns:NazwaKontrahenta>
+    <tns:AdresKontrahenta>ul. HOHENTORSHEERSTR 37, 28-199 BERMEN</tns:AdresKontrahenta>
+    <tns:DowodSprzedazy>FW RECHNUNG 5362/2018</tns:DowodSprzedazy>
+    <tns:DataWystawienia>2018-01-11</tns:DataWystawienia>
+    <tns:K_15>0</tns:K_15>
+    <tns:K_16>0</tns:K_16>
+    <tns:K_17>0</tns:K_17>
+    <tns:K_18>0</tns:K_18>
+    <tns:K_19>0</tns:K_19>
+    <tns:K_20>0</tns:K_20>
+    <tns:K_23>0</tns:K_23>
+    <tns:K_24>0</tns:K_24>
+    <tns:K_25>0</tns:K_25>
+    <tns:K_26>0</tns:K_26>
+    <tns:K_27>0</tns:K_27>
+    <tns:K_28>0</tns:K_28>
+    <tns:K_29>19720.44</tns:K_29>
+    <tns:K_30>4535.7</tns:K_30>
+    <tns:K_32>0</tns:K_32>
+    <tns:K_33>0</tns:K_33>
+    <tns:K_34>0</tns:K_34>
+    <tns:K_35>0</tns:K_35>
+  </tns:SprzedazWiersz>
+  <tns:SprzedazWiersz>
+    <tns:LpSprzedazy>2</tns:LpSprzedazy>
+    <tns:NrKontrahenta>DE812915962</tns:NrKontrahenta>
+    <tns:NazwaKontrahenta>G.B. SERVICE GRZEGORZ BEKIER</tns:NazwaKontrahenta>
+    <tns:AdresKontrahenta>ul. HOHENTORSHEERSTR 37, 28-199 BERMEN</tns:AdresKontrahenta>
+    <tns:DowodSprzedazy>FW RECHNUNG 5363/2018</tns:DowodSprzedazy>
+    <tns:DataWystawienia>2018-01-11</tns:DataWystawienia>
+    <tns:K_15>0</tns:K_15>
+    <tns:K_16>0</tns:K_16>
+    <tns:K_17>0</tns:K_17>
+    <tns:K_18>0</tns:K_18>
+    <tns:K_19>0</tns:K_19>
+    <tns:K_20>0</tns:K_20>
+    <tns:K_23>0</tns:K_23>
+    <tns:K_24>0</tns:K_24>
+    <tns:K_25>0</tns:K_25>
+    <tns:K_26>0</tns:K_26>
+    <tns:K_27>0</tns:K_27>
+    <tns:K_28>0</tns:K_28>
+    <tns:K_29>7579.75</tns:K_29>
+    <tns:K_30>1743.34</tns:K_30>
+    <tns:K_32>0</tns:K_32>
+    <tns:K_33>0</tns:K_33>
+    <tns:K_34>0</tns:K_34>
+    <tns:K_35>0</tns:K_35>
+  </tns:SprzedazWiersz>
+  <tns:SprzedazWiersz>
+    <tns:LpSprzedazy>3</tns:LpSprzedazy>
+    <tns:NrKontrahenta>DE812915962</tns:NrKontrahenta>
+    <tns:NazwaKontrahenta>G.B. SERVICE GRZEGORZ BEKIER</tns:NazwaKontrahenta>
+    <tns:AdresKontrahenta>ul. HOHENTORSHEERSTR 37, 28-199 BERMEN</tns:AdresKontrahenta>
+    <tns:DowodSprzedazy>FW RECHNUNG 5368/2018</tns:DowodSprzedazy>
+    <tns:DataWystawienia>2018-01-18</tns:DataWystawienia>
+    <tns:K_15>0</tns:K_15>
+    <tns:K_16>0</tns:K_16>
+    <tns:K_17>0</tns:K_17>
+    <tns:K_18>0</tns:K_18>
+    <tns:K_19>0</tns:K_19>
+    <tns:K_20>0</tns:K_20>
+    <tns:K_23>0</tns:K_23>
+    <tns:K_24>0</tns:K_24>
+    <tns:K_25>0</tns:K_25>
+    <tns:K_26>0</tns:K_26>
+    <tns:K_27>0</tns:K_27>
+    <tns:K_28>0</tns:K_28>
+    <tns:K_29>1964.24</tns:K_29>
+    <tns:K_30>451.78</tns:K_30>
+    <tns:K_32>0</tns:K_32>
+    <tns:K_33>0</tns:K_33>
+    <tns:K_34>0</tns:K_34>
+    <tns:K_35>0</tns:K_35>
+  </tns:SprzedazWiersz>
+  <tns:SprzedazWiersz>
+    <tns:LpSprzedazy>4</tns:LpSprzedazy>
+    <tns:NrKontrahenta>DE812915962</tns:NrKontrahenta>
+    <tns:NazwaKontrahenta>G.B. SERVICE GRZEGORZ BEKIER</tns:NazwaKontrahenta>
+    <tns:AdresKontrahenta>ul. HOHENTORSHEERSTR 37, 28-199 BERMEN</tns:AdresKontrahenta>
+    <tns:DowodSprzedazy>FW RECHNUNG 5377/2018</tns:DowodSprzedazy>
+    <tns:DataWystawienia>2018-01-31</tns:DataWystawienia>
+    <tns:K_15>0</tns:K_15>
+    <tns:K_16>0</tns:K_16>
+    <tns:K_17>0</tns:K_17>
+    <tns:K_18>0</tns:K_18>
+    <tns:K_19>0</tns:K_19>
+    <tns:K_20>0</tns:K_20>
+    <tns:K_23>0</tns:K_23>
+    <tns:K_24>0</tns:K_24>
+    <tns:K_25>0</tns:K_25>
+    <tns:K_26>0</tns:K_26>
+    <tns:K_27>0</tns:K_27>
+    <tns:K_28>0</tns:K_28>
+    <tns:K_29>24759.35</tns:K_29>
+    <tns:K_30>5694.65</tns:K_30>
+    <tns:K_32>0</tns:K_32>
+    <tns:K_33>0</tns:K_33>
+    <tns:K_34>0</tns:K_34>
+    <tns:K_35>0</tns:K_35>
+  </tns:SprzedazWiersz>
+  <tns:SprzedazWiersz>
+    <tns:LpSprzedazy>5</tns:LpSprzedazy>
+    <tns:NrKontrahenta>DE812915962</tns:NrKontrahenta>
+    <tns:NazwaKontrahenta>G.B. SERVICE GRZEGORZ BEKIER</tns:NazwaKontrahenta>
+    <tns:AdresKontrahenta>ul. HOHENTORSHEERSTR 37, 28-199 BERMEN</tns:AdresKontrahenta>
+    <tns:DowodSprzedazy>FW RECHNUNG 5378/2018</tns:DowodSprzedazy>
+    <tns:DataWystawienia>2018-01-31</tns:DataWystawienia>
+    <tns:K_15>0</tns:K_15>
+    <tns:K_16>0</tns:K_16>
+    <tns:K_17>0</tns:K_17>
+    <tns:K_18>0</tns:K_18>
+    <tns:K_19>0</tns:K_19>
+    <tns:K_20>0</tns:K_20>
+    <tns:K_23>0</tns:K_23>
+    <tns:K_24>0</tns:K_24>
+    <tns:K_25>0</tns:K_25>
+    <tns:K_26>0</tns:K_26>
+    <tns:K_27>0</tns:K_27>
+    <tns:K_28>0</tns:K_28>
+    <tns:K_29>7538.99</tns:K_29>
+    <tns:K_30>1733.97</tns:K_30>
+    <tns:K_32>0</tns:K_32>
+    <tns:K_33>0</tns:K_33>
+    <tns:K_34>0</tns:K_34>
+    <tns:K_35>0</tns:K_35>
+  </tns:SprzedazWiersz>
+  <tns:SprzedazWiersz>
+    <tns:LpSprzedazy>6</tns:LpSprzedazy>
+    <tns:NrKontrahenta>8133532438</tns:NrKontrahenta>
+    <tns:NazwaKontrahenta>CHDE POLSKA Spółka Akcyjna</tns:NazwaKontrahenta>
+    <tns:AdresKontrahenta>ul. Biesiadna 7, 35-304 Rzeszów</tns:AdresKontrahenta>
+    <tns:DowodSprzedazy>FVS 1/U/1/2018</tns:DowodSprzedazy>
+    <tns:DataWystawienia>2018-01-31</tns:DataWystawienia>
+    <tns:K_15>0</tns:K_15>
+    <tns:K_16>0</tns:K_16>
+    <tns:K_17>0</tns:K_17>
+    <tns:K_18>0</tns:K_18>
+    <tns:K_19>4200</tns:K_19>
+    <tns:K_20>966</tns:K_20>
+    <tns:K_23>0</tns:K_23>
+    <tns:K_24>0</tns:K_24>
+    <tns:K_25>0</tns:K_25>
+    <tns:K_26>0</tns:K_26>
+    <tns:K_27>0</tns:K_27>
+    <tns:K_28>0</tns:K_28>
+    <tns:K_29>0</tns:K_29>
+    <tns:K_30>0</tns:K_30>
+    <tns:K_32>0</tns:K_32>
+    <tns:K_33>0</tns:K_33>
+    <tns:K_34>0</tns:K_34>
+    <tns:K_35>0</tns:K_35>
+  </tns:SprzedazWiersz>
+  <tns:SprzedazWiersz>
+    <tns:LpSprzedazy>7</tns:LpSprzedazy>
+    <tns:NrKontrahenta>8133532438</tns:NrKontrahenta>
+    <tns:NazwaKontrahenta>CHDE POLSKA Spółka Akcyjna</tns:NazwaKontrahenta>
+    <tns:AdresKontrahenta>ul. Biesiadna 7, 35-304 Rzeszów</tns:AdresKontrahenta>
+    <tns:DowodSprzedazy>0003/01/SL/18/S - FVS</tns:DowodSprzedazy>
+    <tns:DataWystawienia>2018-01-19</tns:DataWystawienia>
+    <tns:K_15>0</tns:K_15>
+    <tns:K_16>0</tns:K_16>
+    <tns:K_17>5285</tns:K_17>
+    <tns:K_18>422.8</tns:K_18>
+    <tns:K_19>0</tns:K_19>
+    <tns:K_20>0</tns:K_20>
+    <tns:K_23>0</tns:K_23>
+    <tns:K_24>0</tns:K_24>
+    <tns:K_25>0</tns:K_25>
+    <tns:K_26>0</tns:K_26>
+    <tns:K_27>0</tns:K_27>
+    <tns:K_28>0</tns:K_28>
+    <tns:K_29>0</tns:K_29>
+    <tns:K_30>0</tns:K_30>
+    <tns:K_32>0</tns:K_32>
+    <tns:K_33>0</tns:K_33>
+    <tns:K_34>0</tns:K_34>
+    <tns:K_35>0</tns:K_35>
+  </tns:SprzedazWiersz>
+  <tns:SprzedazWiersz>
+    <tns:LpSprzedazy>8</tns:LpSprzedazy>
+    <tns:NrKontrahenta>7481539117</tns:NrKontrahenta>
+    <tns:NazwaKontrahenta>"DAMED" Dawid  Leżański</tns:NazwaKontrahenta>
+    <tns:AdresKontrahenta>ul. Żeromskiego 17, 48-100 Głubczyce</tns:AdresKontrahenta>
+    <tns:DowodSprzedazy>0003/01/SL/18/S - FKS</tns:DowodSprzedazy>
+    <tns:DataWystawienia>2018-01-18</tns:DataWystawienia>
+    <tns:DataSprzedazy>2017-12-21</tns:DataSprzedazy>
+    <tns:K_15>0</tns:K_15>
+    <tns:K_16>0</tns:K_16>
+    <tns:K_17>-75</tns:K_17>
+    <tns:K_18>-6</tns:K_18>
+    <tns:K_19>0</tns:K_19>
+    <tns:K_20>0</tns:K_20>
+    <tns:K_23>0</tns:K_23>
+    <tns:K_24>0</tns:K_24>
+    <tns:K_25>0</tns:K_25>
+    <tns:K_26>0</tns:K_26>
+    <tns:K_27>0</tns:K_27>
+    <tns:K_28>0</tns:K_28>
+    <tns:K_29>0</tns:K_29>
+    <tns:K_30>0</tns:K_30>
+    <tns:K_32>0</tns:K_32>
+    <tns:K_33>0</tns:K_33>
+    <tns:K_34>0</tns:K_34>
+    <tns:K_35>0</tns:K_35>
+  </tns:SprzedazWiersz>
+  <tns:SprzedazWiersz>
+    <tns:LpSprzedazy>9</tns:LpSprzedazy>
+    <tns:NrKontrahenta>6681962943</tns:NrKontrahenta>
+    <tns:NazwaKontrahenta>Alfa Pharm  Małgorzata Janusik,  Jarosław Janusik spółka jawna</tns:NazwaKontrahenta>
+    <tns:AdresKontrahenta>ul. Kowale Pańskie 53, 62-704 Kawęczyn</tns:AdresKontrahenta>
+    <tns:DowodSprzedazy>0002/01/SL/18/S - FKS</tns:DowodSprzedazy>
+    <tns:DataWystawienia>2018-01-18</tns:DataWystawienia>
+    <tns:DataSprzedazy>2017-12-27</tns:DataSprzedazy>
+    <tns:K_15>0</tns:K_15>
+    <tns:K_16>0</tns:K_16>
+    <tns:K_17>-45</tns:K_17>
+    <tns:K_18>-3.6</tns:K_18>
+    <tns:K_19>0</tns:K_19>
+    <tns:K_20>0</tns:K_20>
+    <tns:K_23>0</tns:K_23>
+    <tns:K_24>0</tns:K_24>
+    <tns:K_25>0</tns:K_25>
+    <tns:K_26>0</tns:K_26>
+    <tns:K_27>0</tns:K_27>
+    <tns:K_28>0</tns:K_28>
+    <tns:K_29>0</tns:K_29>
+    <tns:K_30>0</tns:K_30>
+    <tns:K_32>0</tns:K_32>
+    <tns:K_33>0</tns:K_33>
+    <tns:K_34>0</tns:K_34>
+    <tns:K_35>0</tns:K_35>
+  </tns:SprzedazWiersz>
+  <tns:SprzedazWiersz>
+    <tns:LpSprzedazy>10</tns:LpSprzedazy>
+    <tns:NrKontrahenta>7960000362</tns:NrKontrahenta>
+    <tns:NazwaKontrahenta>Wędzonka Wiesław "STYMAT" ZAKŁAD TECHNIKI MEDYCZNEJ</tns:NazwaKontrahenta>
+    <tns:AdresKontrahenta>ul. Giserska 4, 26-600 Radom</tns:AdresKontrahenta>
+    <tns:DowodSprzedazy>0001/01/RZ/18/S - FKS</tns:DowodSprzedazy>
+    <tns:DataWystawienia>2018-01-18</tns:DataWystawienia>
+    <tns:DataSprzedazy>2017-10-05</tns:DataSprzedazy>
+    <tns:K_15>0</tns:K_15>
+    <tns:K_16>0</tns:K_16>
+    <tns:K_17>-144.53</tns:K_17>
+    <tns:K_18>-11.56</tns:K_18>
+    <tns:K_19>0</tns:K_19>
+    <tns:K_20>0</tns:K_20>
+    <tns:K_23>0</tns:K_23>
+    <tns:K_24>0</tns:K_24>
+    <tns:K_25>0</tns:K_25>
+    <tns:K_26>0</tns:K_26>
+    <tns:K_27>0</tns:K_27>
+    <tns:K_28>0</tns:K_28>
+    <tns:K_29>0</tns:K_29>
+    <tns:K_30>0</tns:K_30>
+    <tns:K_32>0</tns:K_32>
+    <tns:K_33>0</tns:K_33>
+    <tns:K_34>0</tns:K_34>
+    <tns:K_35>0</tns:K_35>
+  </tns:SprzedazWiersz>
+  <tns:SprzedazWiersz>
+    <tns:LpSprzedazy>11</tns:LpSprzedazy>
+    <tns:NrKontrahenta>7543062049</tns:NrKontrahenta>
+    <tns:NazwaKontrahenta>Apteka " Przyjazna " A. Bubnicka, B.Szczegielniak Sp.J.</tns:NazwaKontrahenta>
+    <tns:AdresKontrahenta>ul. Kraszewskiego 7 B, 48-340 Głuchołazy</tns:AdresKontrahenta>
+    <tns:DowodSprzedazy>0001/01/SL/18/S - FKS</tns:DowodSprzedazy>
+    <tns:DataWystawienia>2018-01-18</tns:DataWystawienia>
+    <tns:DataSprzedazy>2017-09-07</tns:DataSprzedazy>
+    <tns:K_15>0</tns:K_15>
+    <tns:K_16>0</tns:K_16>
+    <tns:K_17>-109</tns:K_17>
+    <tns:K_18>-8.72</tns:K_18>
+    <tns:K_19>0</tns:K_19>
+    <tns:K_20>0</tns:K_20>
+    <tns:K_23>0</tns:K_23>
+    <tns:K_24>0</tns:K_24>
+    <tns:K_25>0</tns:K_25>
+    <tns:K_26>0</tns:K_26>
+    <tns:K_27>0</tns:K_27>
+    <tns:K_28>0</tns:K_28>
+    <tns:K_29>0</tns:K_29>
+    <tns:K_30>0</tns:K_30>
+    <tns:K_32>0</tns:K_32>
+    <tns:K_33>0</tns:K_33>
+    <tns:K_34>0</tns:K_34>
+    <tns:K_35>0</tns:K_35>
+  </tns:SprzedazWiersz>
+  <tns:SprzedazWiersz>
+    <tns:LpSprzedazy>12</tns:LpSprzedazy>
+    <tns:NrKontrahenta>8133532438</tns:NrKontrahenta>
+    <tns:NazwaKontrahenta>CHDE POLSKA Spółka Akcyjna</tns:NazwaKontrahenta>
+    <tns:AdresKontrahenta>ul. Biesiadna 7, 35-304 Rzeszów</tns:AdresKontrahenta>
+    <tns:DowodSprzedazy>0002/01/SL/18/S - FVS</tns:DowodSprzedazy>
+    <tns:DataWystawienia>2018-01-17</tns:DataWystawienia>
+    <tns:K_15>0</tns:K_15>
+    <tns:K_16>0</tns:K_16>
+    <tns:K_17>47465</tns:K_17>
+    <tns:K_18>3797.2</tns:K_18>
+    <tns:K_19>0</tns:K_19>
+    <tns:K_20>0</tns:K_20>
+    <tns:K_23>0</tns:K_23>
+    <tns:K_24>0</tns:K_24>
+    <tns:K_25>0</tns:K_25>
+    <tns:K_26>0</tns:K_26>
+    <tns:K_27>0</tns:K_27>
+    <tns:K_28>0</tns:K_28>
+    <tns:K_29>0</tns:K_29>
+    <tns:K_30>0</tns:K_30>
+    <tns:K_32>0</tns:K_32>
+    <tns:K_33>0</tns:K_33>
+    <tns:K_34>0</tns:K_34>
+    <tns:K_35>0</tns:K_35>
+  </tns:SprzedazWiersz>
+  <tns:SprzedazWiersz>
+    <tns:LpSprzedazy>13</tns:LpSprzedazy>
+    <tns:NrKontrahenta>8133532438</tns:NrKontrahenta>
+    <tns:NazwaKontrahenta>CHDE POLSKA Spółka Akcyjna</tns:NazwaKontrahenta>
+    <tns:AdresKontrahenta>ul. Biesiadna 7, 35-304 Rzeszów</tns:AdresKontrahenta>
+    <tns:DowodSprzedazy>0001/01/SL/18/S - FVS</tns:DowodSprzedazy>
+    <tns:DataWystawienia>2018-01-10</tns:DataWystawienia>
+    <tns:K_15>0</tns:K_15>
+    <tns:K_16>0</tns:K_16>
+    <tns:K_17>1249622.36</tns:K_17>
+    <tns:K_18>99969.79</tns:K_18>
+    <tns:K_19>0</tns:K_19>
+    <tns:K_20>0</tns:K_20>
+    <tns:K_23>0</tns:K_23>
+    <tns:K_24>0</tns:K_24>
+    <tns:K_25>0</tns:K_25>
+    <tns:K_26>0</tns:K_26>
+    <tns:K_27>0</tns:K_27>
+    <tns:K_28>0</tns:K_28>
+    <tns:K_29>0</tns:K_29>
+    <tns:K_30>0</tns:K_30>
+    <tns:K_32>0</tns:K_32>
+    <tns:K_33>0</tns:K_33>
+    <tns:K_34>0</tns:K_34>
+    <tns:K_35>0</tns:K_35>
+  </tns:SprzedazWiersz>
+  Lp<tns:SprzedazCtrl>
+    <tns:LiczbaWierszySprzedazy>13</tns:LiczbaWierszySprzedazy>
+    <tns:PodatekNalezny>119285.35</tns:PodatekNalezny>
+  </tns:SprzedazCtrl>
+  <tns:ZakupWiersz>
+    <tns:LpZakupu>1</tns:LpZakupu>
+    <tns:NrDostawcy>DE812915962</tns:NrDostawcy>
+    <tns:NazwaDostawcy>G.B. SERVICE GRZEGORZ BEKIER</tns:NazwaDostawcy>
+    <tns:AdresDostawcy>ul. HOHENTORSHEERSTR 37, 28-199 BERMEN</tns:AdresDostawcy>
+    <tns:DowodZakupu>FW RECHNUNG 5362/2018</tns:DowodZakupu>
+    <tns:DataZakupu>2018-01-11</tns:DataZakupu>
+    <tns:K_43>0</tns:K_43>
+    <tns:K_44>0</tns:K_44>
+    <tns:K_45>19720.44</tns:K_45>
+    <tns:K_46>4535.7</tns:K_46>
+  </tns:ZakupWiersz>
+  <tns:ZakupWiersz>
+    <tns:LpZakupu>2</tns:LpZakupu>
+    <tns:NrDostawcy>DE812915962</tns:NrDostawcy>
+    <tns:NazwaDostawcy>G.B. SERVICE GRZEGORZ BEKIER</tns:NazwaDostawcy>
+    <tns:AdresDostawcy>ul. HOHENTORSHEERSTR 37, 28-199 BERMEN</tns:AdresDostawcy>
+    <tns:DowodZakupu>FW RECHNUNG 5363/2018</tns:DowodZakupu>
+    <tns:DataZakupu>2018-01-11</tns:DataZakupu>
+    <tns:K_43>0</tns:K_43>
+    <tns:K_44>0</tns:K_44>
+    <tns:K_45>7579.75</tns:K_45>
+    <tns:K_46>1743.34</tns:K_46>
+  </tns:ZakupWiersz>
+  <tns:ZakupWiersz>
+    <tns:LpZakupu>3</tns:LpZakupu>
+    <tns:NrDostawcy>DE812915962</tns:NrDostawcy>
+    <tns:NazwaDostawcy>G.B. SERVICE GRZEGORZ BEKIER</tns:NazwaDostawcy>
+    <tns:AdresDostawcy>ul. HOHENTORSHEERSTR 37, 28-199 BERMEN</tns:AdresDostawcy>
+    <tns:DowodZakupu>FW RECHNUNG 5368/2018</tns:DowodZakupu>
+    <tns:DataZakupu>2018-01-18</tns:DataZakupu>
+    <tns:K_43>0</tns:K_43>
+    <tns:K_44>0</tns:K_44>
+    <tns:K_45>1964.24</tns:K_45>
+    <tns:K_46>451.78</tns:K_46>
+  </tns:ZakupWiersz>
+  <tns:ZakupWiersz>
+    <tns:LpZakupu>4</tns:LpZakupu>
+    <tns:NrDostawcy>DE812915962</tns:NrDostawcy>
+    <tns:NazwaDostawcy>G.B. SERVICE GRZEGORZ BEKIER</tns:NazwaDostawcy>
+    <tns:AdresDostawcy>ul. HOHENTORSHEERSTR 37, 28-199 BERMEN</tns:AdresDostawcy>
+    <tns:DowodZakupu>FW RECHNUNG 5377/2018</tns:DowodZakupu>
+    <tns:DataZakupu>2018-01-31</tns:DataZakupu>
+    <tns:K_43>0</tns:K_43>
+    <tns:K_44>0</tns:K_44>
+    <tns:K_45>24759.35</tns:K_45>
+    <tns:K_46>5694.65</tns:K_46>
+  </tns:ZakupWiersz>
+  <tns:ZakupWiersz>
+    <tns:LpZakupu>5</tns:LpZakupu>
+    <tns:NrDostawcy>DE812915962</tns:NrDostawcy>
+    <tns:NazwaDostawcy>G.B. SERVICE GRZEGORZ BEKIER</tns:NazwaDostawcy>
+    <tns:AdresDostawcy>ul. HOHENTORSHEERSTR 37, 28-199 BERMEN</tns:AdresDostawcy>
+    <tns:DowodZakupu>FW RECHNUNG 5378/2018</tns:DowodZakupu>
+    <tns:DataZakupu>2018-01-31</tns:DataZakupu>
+    <tns:K_43>0</tns:K_43>
+    <tns:K_44>0</tns:K_44>
+    <tns:K_45>7538.99</tns:K_45>
+    <tns:K_46>1733.97</tns:K_46>
+  </tns:ZakupWiersz>
+  <tns:ZakupWiersz>
+    <tns:LpZakupu>6</tns:LpZakupu>
+    <tns:NrDostawcy>5260250995</tns:NrDostawcy>
+    <tns:NazwaDostawcy>ORANGE POLSKA S.A.</tns:NazwaDostawcy>
+    <tns:AdresDostawcy>ul. ALEJE JEROZOLIMSKIE 160, 02-326 WARSZAWA</tns:AdresDostawcy>
+    <tns:DowodZakupu>FV 17120059571846</tns:DowodZakupu>
+    <tns:DataZakupu>2018-01-01</tns:DataZakupu>
+    <tns:DataWplywu>2018-01-02</tns:DataWplywu>
+    <tns:K_43>0</tns:K_43>
+    <tns:K_44>0</tns:K_44>
+    <tns:K_45>815.79</tns:K_45>
+    <tns:K_46>187.63</tns:K_46>
+  </tns:ZakupWiersz>
+  <tns:ZakupWiersz>
+    <tns:LpZakupu>7</tns:LpZakupu>
+    <tns:NrDostawcy>1070028292</tns:NrDostawcy>
+    <tns:NazwaDostawcy>VOLKSWAGEN LEASING GMBH</tns:NazwaDostawcy>
+    <tns:AdresDostawcy>ul. GIFHORNER STR. 57, 38-112 BRUNSZWIK, NIEMCY</tns:AdresDostawcy>
+    <tns:DowodZakupu>FV 55449/0118/RM</tns:DowodZakupu>
+    <tns:DataZakupu>2018-01-02</tns:DataZakupu>
+    <tns:DataWplywu>2018-01-02</tns:DataWplywu>
+    <tns:K_43>0</tns:K_43>
+    <tns:K_44>0</tns:K_44>
+    <tns:K_45>868.66</tns:K_45>
+    <tns:K_46>199.79</tns:K_46>
+  </tns:ZakupWiersz>
+  <tns:ZakupWiersz>
+    <tns:LpZakupu>8</tns:LpZakupu>
+    <tns:NrDostawcy>8970012657</tns:NrDostawcy>
+    <tns:NazwaDostawcy>ELF S.A.</tns:NazwaDostawcy>
+    <tns:AdresDostawcy>PL. ORLĄT LWOWSKICH 1, 53-605 WROCŁAW</tns:AdresDostawcy>
+    <tns:DowodZakupu>FV 48875257</tns:DowodZakupu>
+    <tns:DataZakupu>2018-01-05</tns:DataZakupu>
+    <tns:DataWplywu>2018-01-05</tns:DataWplywu>
+    <tns:K_43>0</tns:K_43>
+    <tns:K_44>0</tns:K_44>
+    <tns:K_45>548.24</tns:K_45>
+    <tns:K_46>126.1</tns:K_46>
+  </tns:ZakupWiersz>
+  <tns:ZakupWiersz>
+    <tns:LpZakupu>9</tns:LpZakupu>
+    <tns:NrDostawcy>8970012657</tns:NrDostawcy>
+    <tns:NazwaDostawcy>ELF S.A.</tns:NazwaDostawcy>
+    <tns:AdresDostawcy>PL. ORLĄT LWOWSKICH 1, 53-605 WROCŁAW</tns:AdresDostawcy>
+    <tns:DowodZakupu>FV 48875256</tns:DowodZakupu>
+    <tns:DataZakupu>2018-01-05</tns:DataZakupu>
+    <tns:DataWplywu>2018-01-05</tns:DataWplywu>
+    <tns:K_43>0</tns:K_43>
+    <tns:K_44>0</tns:K_44>
+    <tns:K_45>550.74</tns:K_45>
+    <tns:K_46>126.67</tns:K_46>
+  </tns:ZakupWiersz>
+  <tns:ZakupWiersz>
+    <tns:LpZakupu>10</tns:LpZakupu>
+    <tns:NrDostawcy>8970012657</tns:NrDostawcy>
+    <tns:NazwaDostawcy>ELF S.A.</tns:NazwaDostawcy>
+    <tns:AdresDostawcy>PL. ORLĄT LWOWSKICH 1, 53-605 WROCŁAW</tns:AdresDostawcy>
+    <tns:DowodZakupu>FV 48875255</tns:DowodZakupu>
+    <tns:DataZakupu>2018-01-05</tns:DataZakupu>
+    <tns:DataWplywu>2018-01-05</tns:DataWplywu>
+    <tns:K_43>0</tns:K_43>
+    <tns:K_44>0</tns:K_44>
+    <tns:K_45>550.74</tns:K_45>
+    <tns:K_46>126.67</tns:K_46>
+  </tns:ZakupWiersz>
+  <tns:ZakupWiersz>
+    <tns:LpZakupu>11</tns:LpZakupu>
+    <tns:NrDostawcy>8970012657</tns:NrDostawcy>
+    <tns:NazwaDostawcy>ELF S.A.</tns:NazwaDostawcy>
+    <tns:AdresDostawcy>PL. ORLĄT LWOWSKICH 1, 53-605 WROCŁAW</tns:AdresDostawcy>
+    <tns:DowodZakupu>FV 48887267</tns:DowodZakupu>
+    <tns:DataZakupu>2018-01-08</tns:DataZakupu>
+    <tns:DataWplywu>2018-01-08</tns:DataWplywu>
+    <tns:K_43>0</tns:K_43>
+    <tns:K_44>0</tns:K_44>
+    <tns:K_45>819.07</tns:K_45>
+    <tns:K_46>188.39</tns:K_46>
+  </tns:ZakupWiersz>
+  <tns:ZakupWiersz>
+    <tns:LpZakupu>12</tns:LpZakupu>
+    <tns:NrDostawcy>8970012657</tns:NrDostawcy>
+    <tns:NazwaDostawcy>ELF S.A.</tns:NazwaDostawcy>
+    <tns:AdresDostawcy>PL. ORLĄT LWOWSKICH 1, 53-605 WROCŁAW</tns:AdresDostawcy>
+    <tns:DowodZakupu>FV 48887264</tns:DowodZakupu>
+    <tns:DataZakupu>2018-01-08</tns:DataZakupu>
+    <tns:DataWplywu>2018-01-08</tns:DataWplywu>
+    <tns:K_43>0</tns:K_43>
+    <tns:K_44>0</tns:K_44>
+    <tns:K_45>543.96</tns:K_45>
+    <tns:K_46>125.11</tns:K_46>
+  </tns:ZakupWiersz>
+  <tns:ZakupWiersz>
+    <tns:LpZakupu>13</tns:LpZakupu>
+    <tns:NrDostawcy>8970012657</tns:NrDostawcy>
+    <tns:NazwaDostawcy>ELF S.A.</tns:NazwaDostawcy>
+    <tns:AdresDostawcy>PL. ORLĄT LWOWSKICH 1, 53-605 WROCŁAW</tns:AdresDostawcy>
+    <tns:DowodZakupu>FV 48887266</tns:DowodZakupu>
+    <tns:DataZakupu>2018-01-08</tns:DataZakupu>
+    <tns:DataWplywu>2018-01-08</tns:DataWplywu>
+    <tns:K_43>0</tns:K_43>
+    <tns:K_44>0</tns:K_44>
+    <tns:K_45>541.6</tns:K_45>
+    <tns:K_46>124.57</tns:K_46>
+  </tns:ZakupWiersz>
+  <tns:ZakupWiersz>
+    <tns:LpZakupu>14</tns:LpZakupu>
+    <tns:NrDostawcy>8970012657</tns:NrDostawcy>
+    <tns:NazwaDostawcy>ELF S.A.</tns:NazwaDostawcy>
+    <tns:AdresDostawcy>PL. ORLĄT LWOWSKICH 1, 53-605 WROCŁAW</tns:AdresDostawcy>
+    <tns:DowodZakupu>FV 48887265</tns:DowodZakupu>
+    <tns:DataZakupu>2018-01-08</tns:DataZakupu>
+    <tns:DataWplywu>2018-01-08</tns:DataWplywu>
+    <tns:K_43>0</tns:K_43>
+    <tns:K_44>0</tns:K_44>
+    <tns:K_45>548.39</tns:K_45>
+    <tns:K_46>126.13</tns:K_46>
+  </tns:ZakupWiersz>
+  <tns:ZakupWiersz>
+    <tns:LpZakupu>15</tns:LpZakupu>
+    <tns:NrDostawcy>7291986959</tns:NrDostawcy>
+    <tns:NazwaDostawcy>PHU IGA IZABELA GABRYSIAK</tns:NazwaDostawcy>
+    <tns:AdresDostawcy>ul. GOSPODARZ 44, 95-030 RZGÓW</tns:AdresDostawcy>
+    <tns:DowodZakupu>FV 1/2018</tns:DowodZakupu>
+    <tns:DataZakupu>2018-01-10</tns:DataZakupu>
+    <tns:DataWplywu>2018-01-10</tns:DataWplywu>
+    <tns:K_43>0</tns:K_43>
+    <tns:K_44>0</tns:K_44>
+    <tns:K_45>5222.38</tns:K_45>
+    <tns:K_46>1201.15</tns:K_46>
+  </tns:ZakupWiersz>
+  <tns:ZakupWiersz>
+    <tns:LpZakupu>16</tns:LpZakupu>
+    <tns:NrDostawcy>8943027258</tns:NrDostawcy>
+    <tns:NazwaDostawcy>MULTIAP S.J. A. LESZCZYŃSKA</tns:NazwaDostawcy>
+    <tns:AdresDostawcy>ul. OSTROWSKIEGO 30, 53-238 WROCŁAW</tns:AdresDostawcy>
+    <tns:DowodZakupu>FV 12/01-2018</tns:DowodZakupu>
+    <tns:DataZakupu>2018-01-11</tns:DataZakupu>
+    <tns:DataWplywu>2018-01-11</tns:DataWplywu>
+    <tns:K_43>0</tns:K_43>
+    <tns:K_44>0</tns:K_44>
+    <tns:K_45>28.51</tns:K_45>
+    <tns:K_46>6.56</tns:K_46>
+  </tns:ZakupWiersz>
+  <tns:ZakupWiersz>
+    <tns:LpZakupu>17</tns:LpZakupu>
+    <tns:NrDostawcy>7291986959</tns:NrDostawcy>
+    <tns:NazwaDostawcy>PHU IGA IZABELA GABRYSIAK</tns:NazwaDostawcy>
+    <tns:AdresDostawcy>ul. GOSPODARZ 44, 95-030 RZGÓW</tns:AdresDostawcy>
+    <tns:DowodZakupu>FV 2/2018</tns:DowodZakupu>
+    <tns:DataZakupu>2018-01-15</tns:DataZakupu>
+    <tns:DataWplywu>2018-01-15</tns:DataWplywu>
+    <tns:K_43>0</tns:K_43>
+    <tns:K_44>0</tns:K_44>
+    <tns:K_45>833.38</tns:K_45>
+    <tns:K_46>191.68</tns:K_46>
+  </tns:ZakupWiersz>
+  <tns:ZakupWiersz>
+    <tns:LpZakupu>18</tns:LpZakupu>
+    <tns:NrDostawcy>1181452946</tns:NrDostawcy>
+    <tns:NazwaDostawcy>INTER CARS S.A.</tns:NazwaDostawcy>
+    <tns:AdresDostawcy>ul. POWSIŃSKA 64, 02-903 WARSZAWA</tns:AdresDostawcy>
+    <tns:DowodZakupu>FV 00000316/FLO/18/F</tns:DowodZakupu>
+    <tns:DataZakupu>2018-01-18</tns:DataZakupu>
+    <tns:DataWplywu>2018-01-18</tns:DataWplywu>
+    <tns:K_43>0</tns:K_43>
+    <tns:K_44>0</tns:K_44>
+    <tns:K_45>396.54</tns:K_45>
+    <tns:K_46>91.2</tns:K_46>
+  </tns:ZakupWiersz>
+  <tns:ZakupWiersz>
+    <tns:LpZakupu>19</tns:LpZakupu>
+    <tns:NrDostawcy>5271037727</tns:NrDostawcy>
+    <tns:NazwaDostawcy>POLKOMTEL SP. Z O.O.</tns:NazwaDostawcy>
+    <tns:AdresDostawcy>ul. POSTĘPU 3, 02-676 WARSZAWA</tns:AdresDostawcy>
+    <tns:DowodZakupu>FV 1801160212654</tns:DowodZakupu>
+    <tns:DataZakupu>2018-01-18</tns:DataZakupu>
+    <tns:DataWplywu>2018-01-18</tns:DataWplywu>
+    <tns:K_43>0</tns:K_43>
+    <tns:K_44>0</tns:K_44>
+    <tns:K_45>113.09</tns:K_45>
+    <tns:K_46>26.01</tns:K_46>
+  </tns:ZakupWiersz>
+  <tns:ZakupWiersz>
+    <tns:LpZakupu>20</tns:LpZakupu>
+    <tns:NrDostawcy>8131098481</tns:NrDostawcy>
+    <tns:NazwaDostawcy>BIURO USŁUG KSIĘGOWYCH DORADZTWO PODATKOWE MARIA MAZUR-SZCZEPŃASKA</tns:NazwaDostawcy>
+    <tns:AdresDostawcy>ul. KRZYŻANOWSKIEGO 6/A, 35-329 RZESZÓW</tns:AdresDostawcy>
+    <tns:DowodZakupu>FV FA/424/01/2018</tns:DowodZakupu>
+    <tns:DataZakupu>2018-01-24</tns:DataZakupu>
+    <tns:DataWplywu>2018-01-24</tns:DataWplywu>
+    <tns:K_43>0</tns:K_43>
+    <tns:K_44>0</tns:K_44>
+    <tns:K_45>700</tns:K_45>
+    <tns:K_46>161</tns:K_46>
+  </tns:ZakupWiersz>
+  <tns:ZakupWiersz>
+    <tns:LpZakupu>21</tns:LpZakupu>
+    <tns:NrDostawcy>1181452946</tns:NrDostawcy>
+    <tns:NazwaDostawcy>INTER CARS S.A.</tns:NazwaDostawcy>
+    <tns:AdresDostawcy>ul. POWSIŃSKA 64, 02-903 WARSZAWA</tns:AdresDostawcy>
+    <tns:DowodZakupu>FV 00000692/FLO/18/F</tns:DowodZakupu>
+    <tns:DataZakupu>2018-01-30</tns:DataZakupu>
+    <tns:DataWplywu>2018-01-30</tns:DataWplywu>
+    <tns:K_43>0</tns:K_43>
+    <tns:K_44>0</tns:K_44>
+    <tns:K_45>102.92</tns:K_45>
+    <tns:K_46>23.67</tns:K_46>
+  </tns:ZakupWiersz>
+  <tns:ZakupWiersz>
+    <tns:LpZakupu>22</tns:LpZakupu>
+    <tns:NrDostawcy>7291986959</tns:NrDostawcy>
+    <tns:NazwaDostawcy>PHU IGA IZABELA GABRYSIAK</tns:NazwaDostawcy>
+    <tns:AdresDostawcy>ul. GOSPODARZ 44, 95-030 RZGÓW</tns:AdresDostawcy>
+    <tns:DowodZakupu>FV 6/2018</tns:DowodZakupu>
+    <tns:DataZakupu>2018-01-30</tns:DataZakupu>
+    <tns:DataWplywu>2018-01-30</tns:DataWplywu>
+    <tns:K_43>0</tns:K_43>
+    <tns:K_44>0</tns:K_44>
+    <tns:K_45>7538.99</tns:K_45>
+    <tns:K_46>1733.97</tns:K_46>
+  </tns:ZakupWiersz>
+  <tns:ZakupWiersz>
+    <tns:LpZakupu>23</tns:LpZakupu>
+    <tns:NrDostawcy>8970012657</tns:NrDostawcy>
+    <tns:NazwaDostawcy>ELF S.A.</tns:NazwaDostawcy>
+    <tns:AdresDostawcy>PL. ORLĄT LWOWSKICH 1, 53-605 WROCŁAW</tns:AdresDostawcy>
+    <tns:DowodZakupu>FV 91527642</tns:DowodZakupu>
+    <tns:DataZakupu>2018-01-31</tns:DataZakupu>
+    <tns:DataWplywu>2018-01-31</tns:DataWplywu>
+    <tns:K_43>0</tns:K_43>
+    <tns:K_44>0</tns:K_44>
+    <tns:K_45>375</tns:K_45>
+    <tns:K_46>86.25</tns:K_46>
+  </tns:ZakupWiersz>
+  <tns:ZakupWiersz>
+    <tns:LpZakupu>24</tns:LpZakupu>
+    <tns:NrDostawcy>8970012657</tns:NrDostawcy>
+    <tns:NazwaDostawcy>ELF S.A.</tns:NazwaDostawcy>
+    <tns:AdresDostawcy>PL. ORLĄT LWOWSKICH 1, 53-605 WROCŁAW</tns:AdresDostawcy>
+    <tns:DowodZakupu>FV 91527646</tns:DowodZakupu>
+    <tns:DataZakupu>2018-01-31</tns:DataZakupu>
+    <tns:DataWplywu>2018-01-31</tns:DataWplywu>
+    <tns:K_43>0</tns:K_43>
+    <tns:K_44>0</tns:K_44>
+    <tns:K_45>375</tns:K_45>
+    <tns:K_46>86.25</tns:K_46>
+  </tns:ZakupWiersz>
+  <tns:ZakupWiersz>
+    <tns:LpZakupu>25</tns:LpZakupu>
+    <tns:NrDostawcy>8970012657</tns:NrDostawcy>
+    <tns:NazwaDostawcy>ELF S.A.</tns:NazwaDostawcy>
+    <tns:AdresDostawcy>PL. ORLĄT LWOWSKICH 1, 53-605 WROCŁAW</tns:AdresDostawcy>
+    <tns:DowodZakupu>FV 91527644</tns:DowodZakupu>
+    <tns:DataZakupu>2018-01-31</tns:DataZakupu>
+    <tns:DataWplywu>2018-01-31</tns:DataWplywu>
+    <tns:K_43>0</tns:K_43>
+    <tns:K_44>0</tns:K_44>
+    <tns:K_45>377.5</tns:K_45>
+    <tns:K_46>86.82</tns:K_46>
+  </tns:ZakupWiersz>
+  <tns:ZakupWiersz>
+    <tns:LpZakupu>26</tns:LpZakupu>
+    <tns:NrDostawcy>8970012657</tns:NrDostawcy>
+    <tns:NazwaDostawcy>ELF S.A.</tns:NazwaDostawcy>
+    <tns:AdresDostawcy>PL. ORLĄT LWOWSKICH 1, 53-605 WROCŁAW</tns:AdresDostawcy>
+    <tns:DowodZakupu>FV 91527643</tns:DowodZakupu>
+    <tns:DataZakupu>2018-01-31</tns:DataZakupu>
+    <tns:DataWplywu>2018-01-31</tns:DataWplywu>
+    <tns:K_43>0</tns:K_43>
+    <tns:K_44>0</tns:K_44>
+    <tns:K_45>2888.02</tns:K_45>
+    <tns:K_46>664.25</tns:K_46>
+  </tns:ZakupWiersz>
+  <tns:ZakupWiersz>
+    <tns:LpZakupu>27</tns:LpZakupu>
+    <tns:NrDostawcy>8970012657</tns:NrDostawcy>
+    <tns:NazwaDostawcy>ELF S.A.</tns:NazwaDostawcy>
+    <tns:AdresDostawcy>PL. ORLĄT LWOWSKICH 1, 53-605 WROCŁAW</tns:AdresDostawcy>
+    <tns:DowodZakupu>FV 91527645</tns:DowodZakupu>
+    <tns:DataZakupu>2018-01-31</tns:DataZakupu>
+    <tns:DataWplywu>2018-01-31</tns:DataWplywu>
+    <tns:K_43>0</tns:K_43>
+    <tns:K_44>0</tns:K_44>
+    <tns:K_45>2350.07</tns:K_45>
+    <tns:K_46>540.52</tns:K_46>
+  </tns:ZakupWiersz>
+  <tns:ZakupWiersz>
+    <tns:LpZakupu>28</tns:LpZakupu>
+    <tns:NrDostawcy>8970012657</tns:NrDostawcy>
+    <tns:NazwaDostawcy>ELF S.A.</tns:NazwaDostawcy>
+    <tns:AdresDostawcy>PL. ORLĄT LWOWSKICH 1, 53-605 WROCŁAW</tns:AdresDostawcy>
+    <tns:DowodZakupu>FV 91527647</tns:DowodZakupu>
+    <tns:DataZakupu>2018-01-31</tns:DataZakupu>
+    <tns:DataWplywu>2018-01-31</tns:DataWplywu>
+    <tns:K_43>0</tns:K_43>
+    <tns:K_44>0</tns:K_44>
+    <tns:K_45>2350.07</tns:K_45>
+    <tns:K_46>540.52</tns:K_46>
+  </tns:ZakupWiersz>
+  <tns:ZakupWiersz>
+    <tns:LpZakupu>29</tns:LpZakupu>
+    <tns:NrDostawcy>8133532438</tns:NrDostawcy>
+    <tns:NazwaDostawcy>CHDE POLSKA Spółka Akcyjna o/Śląsk</tns:NazwaDostawcy>
+    <tns:AdresDostawcy>ul. Kasprzaka 54 a, 41-303 Dąbrowa Górnicza</tns:AdresDostawcy>
+    <tns:DowodZakupu>FV 1/N/2018</tns:DowodZakupu>
+    <tns:DataZakupu>2018-01-31</tns:DataZakupu>
+    <tns:DataWplywu>2018-01-31</tns:DataWplywu>
+    <tns:K_43>0</tns:K_43>
+    <tns:K_44>0</tns:K_44>
+    <tns:K_45>1500</tns:K_45>
+    <tns:K_46>345</tns:K_46>
+  </tns:ZakupWiersz>
+  <tns:ZakupWiersz>
+    <tns:LpZakupu>30</tns:LpZakupu>
+    <tns:NrDostawcy>8141583924</tns:NrDostawcy>
+    <tns:NazwaDostawcy>KANCELARIA RADCY PRAWNEGO BOŻENA KUŹMA</tns:NazwaDostawcy>
+    <tns:AdresDostawcy>ul. PUŁASKIEGO 7/99, 35-011 RZESZÓW</tns:AdresDostawcy>
+    <tns:DowodZakupu>FV 5/01/2018</tns:DowodZakupu>
+    <tns:DataZakupu>2018-01-31</tns:DataZakupu>
+    <tns:DataWplywu>2018-01-31</tns:DataWplywu>
+    <tns:K_43>0</tns:K_43>
+    <tns:K_44>0</tns:K_44>
+    <tns:K_45>250</tns:K_45>
+    <tns:K_46>57.5</tns:K_46>
+  </tns:ZakupWiersz>
+  <tns:ZakupWiersz>
+    <tns:LpZakupu>31</tns:LpZakupu>
+    <tns:NrDostawcy>8141583924</tns:NrDostawcy>
+    <tns:NazwaDostawcy>KANCELARIA RADCY PRAWNEGO BOŻENA KUŹMA</tns:NazwaDostawcy>
+    <tns:AdresDostawcy>ul. PUŁASKIEGO 7/99, 35-011 RZESZÓW</tns:AdresDostawcy>
+    <tns:DowodZakupu>FV 4/01/2018</tns:DowodZakupu>
+    <tns:DataZakupu>2018-01-31</tns:DataZakupu>
+    <tns:DataWplywu>2018-01-31</tns:DataWplywu>
+    <tns:K_43>0</tns:K_43>
+    <tns:K_44>0</tns:K_44>
+    <tns:K_45>211.65</tns:K_45>
+    <tns:K_46>48.68</tns:K_46>
+  </tns:ZakupWiersz>
+  <tns:ZakupWiersz>
+    <tns:LpZakupu>32</tns:LpZakupu>
+    <tns:NrDostawcy>8133165187</tns:NrDostawcy>
+    <tns:NazwaDostawcy>KANCELARIA RADCY PRAWNEGO AGNIESZKA KAWULA</tns:NazwaDostawcy>
+    <tns:AdresDostawcy>ul. ZAWISZY CZARNEGO 31 D, 35-083 RZESZÓW</tns:AdresDostawcy>
+    <tns:DowodZakupu>FV FV/6/18</tns:DowodZakupu>
+    <tns:DataZakupu>2018-01-31</tns:DataZakupu>
+    <tns:DataWplywu>2018-01-31</tns:DataWplywu>
+    <tns:K_43>0</tns:K_43>
+    <tns:K_44>0</tns:K_44>
+    <tns:K_45>211.65</tns:K_45>
+    <tns:K_46>48.68</tns:K_46>
+  </tns:ZakupWiersz>
+  <tns:ZakupWiersz>
+    <tns:LpZakupu>33</tns:LpZakupu>
+    <tns:NrDostawcy>1181452946</tns:NrDostawcy>
+    <tns:NazwaDostawcy>INTER CARS S.A.</tns:NazwaDostawcy>
+    <tns:AdresDostawcy>ul. POWSIŃSKA 64, 02-903 WARSZAWA</tns:AdresDostawcy>
+    <tns:DowodZakupu>FV 00000218/FOP/18/F</tns:DowodZakupu>
+    <tns:DataZakupu>2018-01-31</tns:DataZakupu>
+    <tns:DataWplywu>2018-01-31</tns:DataWplywu>
+    <tns:K_43>0</tns:K_43>
+    <tns:K_44>0</tns:K_44>
+    <tns:K_45>3.75</tns:K_45>
+    <tns:K_46>0.86</tns:K_46>
+  </tns:ZakupWiersz>
+  <tns:ZakupWiersz>
+    <tns:LpZakupu>34</tns:LpZakupu>
+    <tns:NrDostawcy>9512417713</tns:NrDostawcy>
+    <tns:NazwaDostawcy>DHL PARCEL POLSKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</tns:NazwaDostawcy>
+    <tns:AdresDostawcy>ul. Osmańska 2, 02-823 Warszawa</tns:AdresDostawcy>
+    <tns:DowodZakupu>FV 1100368842</tns:DowodZakupu>
+    <tns:DataZakupu>2018-01-31</tns:DataZakupu>
+    <tns:DataWplywu>2018-01-31</tns:DataWplywu>
+    <tns:K_43>0</tns:K_43>
+    <tns:K_44>0</tns:K_44>
+    <tns:K_45>34.86</tns:K_45>
+    <tns:K_46>8.02</tns:K_46>
+  </tns:ZakupWiersz>
+  <tns:ZakupWiersz>
+    <tns:LpZakupu>35</tns:LpZakupu>
+    <tns:NrDostawcy>7821050913</tns:NrDostawcy>
+    <tns:NazwaDostawcy>DOROTA ZIELEWICZ "O.Z.U.H. ZIELEWICZ"</tns:NazwaDostawcy>
+    <tns:AdresDostawcy>ul. Józefa Rivolego 11, 60-465 Poznań</tns:AdresDostawcy>
+    <tns:DowodZakupu>FV 43/1/18</tns:DowodZakupu>
+    <tns:DataZakupu>2018-01-26</tns:DataZakupu>
+    <tns:DataWplywu>2018-01-26</tns:DataWplywu>
+    <tns:K_43>0</tns:K_43>
+    <tns:K_44>0</tns:K_44>
+    <tns:K_45>20</tns:K_45>
+    <tns:K_46>4.6</tns:K_46>
+  </tns:ZakupWiersz>
+  <tns:ZakupWiersz>
+    <tns:LpZakupu>36</tns:LpZakupu>
+    <tns:NrDostawcy>9512417713</tns:NrDostawcy>
+    <tns:NazwaDostawcy>DHL PARCEL POLSKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</tns:NazwaDostawcy>
+    <tns:AdresDostawcy>ul. Osmańska 2, 02-823 Warszawa</tns:AdresDostawcy>
+    <tns:DowodZakupu>FV 1100342289</tns:DowodZakupu>
+    <tns:DataZakupu>2018-01-18</tns:DataZakupu>
+    <tns:DataWplywu>2018-01-18</tns:DataWplywu>
+    <tns:K_43>0</tns:K_43>
+    <tns:K_44>0</tns:K_44>
+    <tns:K_45>549.48</tns:K_45>
+    <tns:K_46>126.38</tns:K_46>
+  </tns:ZakupWiersz>
+  <tns:ZakupWiersz>
+    <tns:LpZakupu>37</tns:LpZakupu>
+    <tns:NrDostawcy>9512417713</tns:NrDostawcy>
+    <tns:NazwaDostawcy>DHL PARCEL POLSKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</tns:NazwaDostawcy>
+    <tns:AdresDostawcy>ul. Osmańska 2, 02-823 Warszawa</tns:AdresDostawcy>
+    <tns:DowodZakupu>FV 1100335465</tns:DowodZakupu>
+    <tns:DataZakupu>2018-01-16</tns:DataZakupu>
+    <tns:DataWplywu>2018-01-16</tns:DataWplywu>
+    <tns:K_43>0</tns:K_43>
+    <tns:K_44>0</tns:K_44>
+    <tns:K_45>8.67</tns:K_45>
+    <tns:K_46>1.99</tns:K_46>
+  </tns:ZakupWiersz>
+  <tns:ZakupWiersz>
+    <tns:LpZakupu>38</tns:LpZakupu>
+    <tns:NrDostawcy>6792495485</tns:NrDostawcy>
+    <tns:NazwaDostawcy>JACEK CUDEK JC</tns:NazwaDostawcy>
+    <tns:AdresDostawcy>ul. Kosocicka 50A, 30-694 Kraków</tns:AdresDostawcy>
+    <tns:DowodZakupu>FV 1/2018</tns:DowodZakupu>
+    <tns:DataZakupu>2018-01-15</tns:DataZakupu>
+    <tns:DataWplywu>2018-01-15</tns:DataWplywu>
+    <tns:K_43>0</tns:K_43>
+    <tns:K_44>0</tns:K_44>
+    <tns:K_45>17395</tns:K_45>
+    <tns:K_46>4000.85</tns:K_46>
+  </tns:ZakupWiersz>
+  <tns:ZakupWiersz>
+    <tns:LpZakupu>39</tns:LpZakupu>
+    <tns:NrDostawcy>5342422646</tns:NrDostawcy>
+    <tns:NazwaDostawcy> PANACEUM JASZCZUK SPÓŁKA JAWNA</tns:NazwaDostawcy>
+    <tns:AdresDostawcy>Al. Tysiąclecia 2A, 05-820 Piastów</tns:AdresDostawcy>
+    <tns:DowodZakupu>FV 24/P/2018</tns:DowodZakupu>
+    <tns:DataZakupu>2018-01-12</tns:DataZakupu>
+    <tns:DataWplywu>2018-01-12</tns:DataWplywu>
+    <tns:K_43>0</tns:K_43>
+    <tns:K_44>0</tns:K_44>
+    <tns:K_45>876.8</tns:K_45>
+    <tns:K_46>201.66</tns:K_46>
+  </tns:ZakupWiersz>
+  <tns:ZakupWiersz>
+    <tns:LpZakupu>40</tns:LpZakupu>
+    <tns:NrDostawcy>8133532438</tns:NrDostawcy>
+    <tns:NazwaDostawcy>CHDE POLSKA Spółka Akcyjna</tns:NazwaDostawcy>
+    <tns:AdresDostawcy>ul. Biesiadna 7, 35-304 Rzeszów</tns:AdresDostawcy>
+    <tns:DowodZakupu>2613/01/SL/18/C-FVS [0001/01/SL/18/S - Z</tns:DowodZakupu>
+    <tns:DataZakupu>2018-01-19</tns:DataZakupu>
+    <tns:DataWplywu>2018-01-19</tns:DataWplywu>
+    <tns:K_43>0</tns:K_43>
+    <tns:K_44>0</tns:K_44>
+    <tns:K_45>4680</tns:K_45>
+    <tns:K_46>374.4</tns:K_46>
+  </tns:ZakupWiersz>
+  <tns:ZakupWiersz>
+    <tns:LpZakupu>41</tns:LpZakupu>
+    <tns:NrDostawcy>8130268515</tns:NrDostawcy>
+    <tns:NazwaDostawcy>OKRĘGOWA SPÓŁDZIELNIA TELEFONICZNA W TYCZYNIE</tns:NazwaDostawcy>
+    <tns:AdresDostawcy>ul. KOŚCIUSZKI 8, 36-020 TYCZYN</tns:AdresDostawcy>
+    <tns:DowodZakupu>FV 113094/2018/001</tns:DowodZakupu>
+    <tns:DataZakupu>2017-12-31</tns:DataZakupu>
+    <tns:DataWplywu>2017-12-31</tns:DataWplywu>
+    <tns:K_43>0</tns:K_43>
+    <tns:K_44>0</tns:K_44>
+    <tns:K_45>59.51</tns:K_45>
+    <tns:K_46>13.69</tns:K_46>
+  </tns:ZakupWiersz>
+  <tns:ZakupWiersz>
+    <tns:LpZakupu>42</tns:LpZakupu>
+    <tns:NrDostawcy>8970012657</tns:NrDostawcy>
+    <tns:NazwaDostawcy>ELF S.A.</tns:NazwaDostawcy>
+    <tns:AdresDostawcy>PL. ORLĄT LWOWSKICH 1, 53-605 WROCŁAW</tns:AdresDostawcy>
+    <tns:DowodZakupu>FV 48785925</tns:DowodZakupu>
+    <tns:DataZakupu>2017-12-16</tns:DataZakupu>
+    <tns:DataWplywu>2017-12-16</tns:DataWplywu>
+    <tns:K_43>0</tns:K_43>
+    <tns:K_44>0</tns:K_44>
+    <tns:K_45>1118.19</tns:K_45>
+    <tns:K_46>257.18</tns:K_46>
+  </tns:ZakupWiersz>
+  <tns:ZakupCtrl>
+    <tns:LiczbaWierszyZakupowaaaa>42</tns:LiczbaWierszyZakupowaaaa>
+    <tns:PodatekNaliczonyyyyy>26419.84</tns:PodatekNaliczonyyyyy>
+  </tns:ZakupCtrl>
+</tns:JPK>

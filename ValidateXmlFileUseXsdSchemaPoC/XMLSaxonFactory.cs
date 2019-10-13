@@ -5,6 +5,6 @@ namespace ValidateXmlFileUseXsdSchemaPoC
 {
     public class XmlSaxonFactory : ValidatorConditionerFactory
     {
-        public override IXmlFileValidation Create(string xsd, string xml) => new XmlDocumentValidateUseSaxon(xsd, xml);
+        public override IXmlFileValidation Create(string xsd) => new XmlDocumentValidateUseSaxon(xsd);
     }
 }

@@ -22,6 +22,6 @@ namespace ValidateXmlFileUseXsdSchemaPoC
             };
         }
 
-        public IXmlFileValidation ExecuteValidation(Actions action, string xsd, string xml) => _factories[action].Create(xsd, xml);
+        public IXmlFileValidation ExecuteValidation(Actions action, string xsd) => _factories[action].Create(xsd);
     }
 }

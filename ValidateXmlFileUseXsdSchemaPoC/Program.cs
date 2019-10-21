@@ -27,17 +27,15 @@ namespace ValidateXmlFileUseXsdSchemaPoC
             //                Console.WriteLine($"{file} => {xmlValidate.Validate(xml)}");
             //            }
 
+            var cc = new ValidatorFactory(xsd);
 
-            IXmlFileValidation aa = new XmlDocumentValidate(xsd);
-            IXmlFileValidation bb = new XmlDocumentValidateUseSaxon(xsd);
+
+            var validate = cc.Validation("a");
             foreach (string file in fileXml)
             {
                 var xml = File.ReadAllText(file, Encoding.UTF8);
-                Console.WriteLine($"saxon- {file} => {bb.Validate(xml)}");
-                Console.WriteLine($"{file} => {aa.Validate(xml)}");
+                Console.WriteLine($"{file} => {validate.Validate(xml)}");
             }
-
-
 
             Console.ReadKey();
         }

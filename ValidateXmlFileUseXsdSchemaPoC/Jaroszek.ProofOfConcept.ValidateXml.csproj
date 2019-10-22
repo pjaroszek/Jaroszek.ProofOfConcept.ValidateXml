@@ -86,6 +86,7 @@
     <Compile Include="RunValidate.cs" />
     <Compile Include="Services\XmlDocumentValidateUseSaxon.cs" />
     <Compile Include="Services\XmlDocumentValidate.cs" />
+    <Compile Include="ValidateMode.cs" />
     <Compile Include="ValidatorFactory.cs" />
   </ItemGroup>
   <ItemGroup>

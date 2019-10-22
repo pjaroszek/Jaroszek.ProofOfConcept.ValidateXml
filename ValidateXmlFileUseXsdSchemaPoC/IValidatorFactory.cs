@@ -4,6 +4,6 @@ namespace ValidateXmlFileUseXsdSchemaPoC
 {
     public interface IValidatorFactory
     {
-        IXmlFileValidation Validation(string param);
+        IXmlFileValidation Validation(ValidateMode validateMode);
     }
 }

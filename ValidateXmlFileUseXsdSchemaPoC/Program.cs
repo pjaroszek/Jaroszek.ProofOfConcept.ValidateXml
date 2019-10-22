@@ -1,11 +1,8 @@
-﻿using ValidateXmlFileUseXsdSchemaPoC.Interfaces;
-
-namespace ValidateXmlFileUseXsdSchemaPoC
+﻿namespace ValidateXmlFileUseXsdSchemaPoC
 {
     using System;
     using System.IO;
     using System.Text;
-    using ValidateXmlFileUseXsdSchemaPoC.Services;
 
     internal static class Program
     {
@@ -27,10 +24,10 @@ namespace ValidateXmlFileUseXsdSchemaPoC
             //                Console.WriteLine($"{file} => {xmlValidate.Validate(xml)}");
             //            }
 
-            var cc = new ValidatorFactory(xsd);
+            var factory = new ValidatorFactory(xsd);
 
 
-            var validate = cc.Validation("a");
+            var validate = factory.Validation(ValidateMode.Xml);
             foreach (string file in fileXml)
             {
                 var xml = File.ReadAllText(file, Encoding.UTF8);

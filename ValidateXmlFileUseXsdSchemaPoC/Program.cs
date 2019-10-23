@@ -27,7 +27,7 @@
             var factory = new ValidatorFactory(xsd);
 
 
-            var validate = factory.Validation("");
+            var validate = factory.Validation("saxon");
             foreach (string file in fileXml)
             {
                 var xml = File.ReadAllText(file, Encoding.UTF8);

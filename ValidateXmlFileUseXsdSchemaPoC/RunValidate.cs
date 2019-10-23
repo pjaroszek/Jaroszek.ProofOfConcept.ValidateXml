@@ -13,7 +13,7 @@ namespace ValidateXmlFileUseXsdSchemaPoC
 
 
 
-        public IXmlFileValidation Validate(ValidateMode validateMode)
+        public IXmlFileValidation Validate(string validateMode)
         {
             return factory.Validation(validateMode);
         }

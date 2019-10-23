@@ -13,9 +13,9 @@ namespace ValidateXmlFileUseXsdSchemaPoC
             this.xsd = xsd;
         }
 
-        public IXmlFileValidation Validation(ValidateMode validateMode)
+        public IXmlFileValidation Validation(string validateMode)
         {
-            if (validateMode == ValidateMode.Saxon)
+            if (validateMode == "saxon")
             {
                 return new XmlDocumentValidateUseSaxon(xsd);
             }

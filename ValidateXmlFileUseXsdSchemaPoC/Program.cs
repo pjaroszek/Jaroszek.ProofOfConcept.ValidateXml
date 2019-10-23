@@ -27,7 +27,7 @@
             var factory = new ValidatorFactory(xsd);
 
 
-            var validate = factory.Validation(ValidateMode.Xml);
+            var validate = factory.Validation("");
             foreach (string file in fileXml)
             {
                 var xml = File.ReadAllText(file, Encoding.UTF8);
